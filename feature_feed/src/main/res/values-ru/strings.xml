@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="write_comment">Напишите комментарий</string>
+    <string name="more">Еще</string>
+    <string name="post_created">Пост создан</string>
+    <string name="add_photo">Добавить фото</string>
+    <string name="attach_photos">Прикрепите фото</string>
+    <string name="close">Закрыть</string>
+    <string name="send">Отправить</string>
+    <string name="like">Лайк</string>
+    <string name="dislike">Дизлайк</string>
+    <string name="days_ago">%1$s дн. назад</string>
+    <string name="today">Сегодня</string>
+    <string name="toggle_favorite">В избранные</string>
+    <string name="post_image">Опубликовать</string>
+    <string name="tag">#%1$s</string>
+    <string name="attached_article">Прикрепленная статья</string>
+    <string name="show_article">Показать статью</string>
+    <string name="hide">Скрыть</string>
+    <string name="three_dots">"… "</string>
+    <string name="back">Назад</string>
+    <string name="business">Бизнес</string>
+    <string name="finances">Финансы</string>
+    <string name="entertainment">Развлечения</string>
+    <string name="investments">Инвестиции</string>
+    <string name="news">Новости</string>
+    <string name="create_post">Создать пост</string>
+    <string name="enter_post_text">Введите текст поста</string>
+    <string name="choose_tags">Выберите тэги (минимум 1)</string>
+    <string name="photo">Фото</string>
+    <string name="all_posts">Все посты</string>
+    <string name="favorite">Любимые</string>
+    <string name="my">Мои</string>
+    <string name="show_comments">Показать комментарии</string>
+    <string name="comments_fig">Комментарии (%1$s)</string>
+    <string name="comments">Комментарии</string>
+    <string name="max_photos">Можно загрузить не больше 2 фотографий</string>
+</resources>

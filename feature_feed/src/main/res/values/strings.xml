@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="write_comment">Write a comment</string>
+    <string name="more">More</string>
+    <string name="post_created">Post created</string>
+    <string name="add_photo">Add photo</string>
+    <string name="attach_photos">Attach photos</string>
+    <string name="close">Close</string>
+    <string name="send">Send</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+    <string name="days_ago">%1$s days ago</string>
+    <string name="today">Today</string>
+    <string name="toggle_favorite">Toggle Favorite</string>
+    <string name="post_image">Post Image</string>
+    <string name="tag">#%1$s</string>
+    <string name="attached_article">Attached article</string>
+    <string name="show_article">Show Article</string>
+    <string name="hide">Hide</string>
+    <string name="three_dots">"… "</string>
+    <string name="back">Back</string>
+    <string name="business">Business</string>
+    <string name="finances">Finances</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="investments">Investments</string>
+    <string name="news">News</string>
+    <string name="create_post">Create post</string>
+    <string name="enter_post_text">Enter post text</string>
+    <string name="choose_tags">Choose tags (at least 1)</string>
+    <string name="photo">Photo</string>
+    <string name="all_posts">All posts</string>
+    <string name="favorite">Favorites</string>
+    <string name="my">My</string>
+    <string name="show_comments">Show Comments</string>
+    <string name="comments_fig">Comments (%1$s)</string>
+    <string name="comments">Comments</string>
+    <string name="max_photos">You can upload no more than 2 photos</string>
+</resources>

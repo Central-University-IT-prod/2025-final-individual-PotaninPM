@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="image_not_found">Image not found</string>
+    <string name="search">Search…</string>
+    <string name="cancel">Cancel</string>
+    <string name="tickers">Tickers</string>
+    <string name="news">News</string>
+    <string name="choose">Choose</string>
+    <string name="micro_perm_is_required">Microphone permission is required!</string>
+    <string name="open">Open</string>
+    <string name="tickers_settings">Tickers update settings</string>
+    <string name="turn_on_auto_update">Enable auto-update</string>
+    <string name="field_cant_be_empty">Field cannot be empty</string>
+    <string name="interval_8">Interval cannot be less than 8 seconds</string>
+    <string name="interval_3600">Interval cannot be more than 3600 seconds</string>
+    <string name="update_interval">Update interval (sec.)</string>
+    <string name="confirm">Confirm</string>
+    <string name="main">Main</string>
+    <string name="will_update_02d_02d">Will update in %02d:%02d</string>
+    <string name="_2f">%.2f</string>
+    <string name="load_more">Load more</string>
+    <string name="ai_is_thinking">AI is thinking…</string>
+    <string name="approximate_time_waiting">Approximate waiting time: %1$s seconds</string>
+    <string name="what_ai_thinks">What does AI think about %1$s?</string>
+    <string name="company_analyse">Company analysis</string>
+    <string name="ai_answer">AI\'s answer:</string>
+    <string name="copied_buff">Copied to clipboard</string>
+    <string name="all">All</string>
+    <string name="tech">Tech</string>
+    <string name="finance">Finance</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="business">Business</string>
+    <string name="politics">Politics</string>
+</resources>

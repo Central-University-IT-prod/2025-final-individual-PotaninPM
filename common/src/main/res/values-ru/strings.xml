@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create">Создать</string>
+    <string name="article">Статья</string>
+    <string name="back">Назад</string>
+    <string name="give_perm">Чтобы использовать голосовой ввод включите разрешение на использование микрофона</string>
+    <string name="error_recognition">Ошибка распознования</string>
+</resources>

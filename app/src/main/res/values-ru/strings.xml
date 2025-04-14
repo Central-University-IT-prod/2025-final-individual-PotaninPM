@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperFinancer</string>
+    <string name="main">Главная</string>
+    <string name="home">Домой</string>
+    <string name="finances">Финансы</string>
+    <string name="posts">Посты</string>
+</resources>
